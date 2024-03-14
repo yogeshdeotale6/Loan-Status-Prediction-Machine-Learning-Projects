@@ -1,1 +1,1 @@
-# Loan-Status-Prediction-Machine-Learning-Projects
+# Machine-Learning-Projects
